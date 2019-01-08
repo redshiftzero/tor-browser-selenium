@@ -9,6 +9,6 @@ setup(
     url = 'https://github.com/webfp/tor-browser-selenium',
     packages=["tbselenium", "tbselenium.test"],
     install_requires=[
-        "selenium>=3.12"
+        "selenium>=3.14"
     ]
 )
